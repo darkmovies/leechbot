@@ -1,16 +1,17 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "8058124753:AAEpKjMEUvjcXGoW0ec0OcMlwwn_fwYK5eQ"
+OWNER_ID = "1496229374"
+TELEGRAM_API = "28161954"
+TELEGRAM_HASH = "959e221b1eadb259c4156b1a18d066b2
+"
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
-STATUS_LIMIT = 10
+DATABASE_URL = "mongodb+srv://leechbot:43Udvq8VmdMu3DXS@cluster0.cy6im.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+STATUS_LIMIT = "10"
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
@@ -22,8 +23,8 @@ USE_SERVICE_ACCOUNTS = False
 NAME_SUBSTITUTE = ""
 FFMPEG_CMDS = {}
 # GDrive Tools
-GDRIVE_ID = ""
-IS_TEAM_DRIVE = False
+GDRIVE_ID = "1ZGb5aTGlE4no3SXKz-SKAwMFX3N6O_gd"
+IS_TEAM_DRIVE = "true"
 STOP_DUPLICATE = False
 INDEX_URL = ""
 # Rclone
@@ -58,7 +59,7 @@ USENET_SERVERS = [
     }
 ]
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/anasty17/mirror-leech-telegram-bot"
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
